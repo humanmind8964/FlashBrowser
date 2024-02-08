@@ -1,8 +1,4 @@
-# ⚡ Electron DEV wanted, submit a pull request for:
- - Browsing History View
- - Downloads View
- - Extract from webpage SWF Button
- - Move Tab By Clicking and dragging funcionability
+<p>⚡⚡⚡ Join the discussion <a href="https://forum.flash.pm">Flash Forum</a> is live ⚡⚡⚡<br>
 
 # Setup instructions:
  - download & unzip code
