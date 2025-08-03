@@ -38,13 +38,6 @@ You can run it from the command line (ex: FlashBrowser.exe D:\\Achilles.swf ) :
 <br/>![Captures](https://flash.pm/Capture.JPG)
 
 
-# Socials:
-- Twitter: https://twitter.com/BrowserFlash
-- Telegram: https://t.me/Flash_EN
-- Discord: https://discord.gg/8nR2J7EcrV
-- Youtube https://www.youtube.com/@FlashisBack
-- e-mail flashblockchain@gmail.com
-
 # Flash Sites:
 
 | Description  | Link |
